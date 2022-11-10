@@ -69,6 +69,12 @@ footer #copyright {
     font-family: 'Quicksand', sans-serif;
 }
 
+footer #social-links {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 250%;
+}
+
 
 
 /* INDEX PAGE */
