@@ -90,7 +90,7 @@ main {
 
 /* Why choose us section */
 #why-choose-us {
-    height: 800px;
+    height: minmax(800px, auto);
     width: 100%;
     background-color: #222831;
 }
@@ -101,4 +101,31 @@ main {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
     padding: 50px;
+}
+
+#index-grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
+
+#index-grid-container .grid-item {
+    font-family: 'Quicksand', sans-serif;
+    color: #eeeeee;
+    padding: 30px;
+    text-align: center;
+}
+
+#index-grid-container .grid-item h3 {
+    padding-bottom: 15px;
+    font-size: 160%;
+}
+
+#index-grid-container .grid-item hr {
+    margin: 0 50px;
+}
+
+#index-grid-container .grid-item p {
+    padding: 15px 0;
+    font-size: 120%;
 }
