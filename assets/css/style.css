@@ -44,7 +44,6 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    font-size: 1.3rem;
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
     color: #00adb5;
@@ -72,11 +71,12 @@ footer #copyright {
 footer #social-links {
     display: flex;
     justify-content: space-evenly;
+    padding-top: 20px;
     font-size: 250%;
 }
 
 footer #social-links a {
-    color: #eeeeee;
+    color: #222831;
 }
 
 footer #social-links a:hover {
