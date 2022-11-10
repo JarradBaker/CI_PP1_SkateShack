@@ -6,6 +6,9 @@
     margin: 0;
 }
 
+
+/* Header - Logo and Navigation */
+
 header {
     display: grid;
     grid-template-columns: 1fr 1fr;
