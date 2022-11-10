@@ -51,6 +51,7 @@ header nav ul li a:hover {
     color: #00adb5;
 }
 
+/* INDEX PAGE */
 /* Main - Hero Image */
 main {
     height: 800px;
@@ -84,4 +85,20 @@ main {
     text-align: center;
     padding: 20px;
     font-family: 'Quicksand', sans-serif;
+}
+
+
+/* Why choose us section */
+#why-choose-us {
+    height: 800px;
+    width: 100%;
+    background-color: #222831;
+}
+
+#why-choose-us h2 {
+    font-size: 240%;
+    color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 50px;
 }
