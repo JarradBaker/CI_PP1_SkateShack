@@ -75,6 +75,13 @@ footer #social-links {
     font-size: 250%;
 }
 
+footer #social-links a {
+    color: #eeeeee;
+}
+
+footer #social-links a:hover {
+    color: #00adb5;
+}
 
 
 /* INDEX PAGE */
