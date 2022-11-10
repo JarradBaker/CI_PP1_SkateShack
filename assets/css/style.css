@@ -11,13 +11,13 @@
 
 header {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     width: 100%;
     background-color: #eeeeee;
 }
 
 header h1 {
-    justify-self: flex-start;
+    justify-self: center;
     padding: 20px 0 20px 15px;
     
     font-family: 'Quicksand', sans-serif;
