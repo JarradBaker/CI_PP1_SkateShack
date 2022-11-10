@@ -50,3 +50,38 @@ header nav ul li a:hover {
     font-weight: 700;
     color: #00adb5;
 }
+
+/* Main - Hero Image */
+main {
+    height: 800px;
+    width: 100%;
+    position: relative;
+}
+
+#hero-image {
+    height: 100%;
+    background: url('../img/main-hero-image-new.jpg') no-repeat center;
+    width: 100%;
+}
+
+#hero-image-text {
+    width: 350px;
+    height: 300px;
+
+    font-size: 180%;
+
+    background-color: rgba(0, 173, 181, 0.6);
+
+    bottom: 150px;
+    right: 0%;
+
+    border-radius: 40px;
+
+    position: absolute;
+}
+
+#hero-image-text h2, #hero-image-text h3 {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
