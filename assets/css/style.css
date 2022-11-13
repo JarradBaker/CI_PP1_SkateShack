@@ -202,3 +202,14 @@ section.light-section {
     grid-template-columns: 1fr;
     grid-auto-rows: auto;
 }
+
+section.light-section, section.dark-section {
+    padding: 15px;
+}
+
+section.light-section h2,
+section.light-section p, 
+section.dark-section h2,
+section.dark-section p {
+    padding: 20px 0;
+}
