@@ -87,19 +87,19 @@ footer #social-links a:hover {
 
 /* INDEX PAGE */
 /* Main - Hero Image */
-main #index-main {
+#index-main {
     height: 800px;
     width: 100%;
     position: relative;
 }
 
-#hero-image {
+#index-main #hero-image {
     height: 100%;
     background: url('../img/main-hero-image-new.jpg') no-repeat center;
     width: 100%;
 }
 
-#hero-image-text {
+#index-main #hero-image-text {
     width: 350px;
     height: 300px;
 
@@ -115,7 +115,7 @@ main #index-main {
     position: absolute;
 }
 
-#hero-image-text h2, #hero-image-text h3 {
+#index-main #hero-image-text h2, #hero-image-text h3 {
     text-align: center;
     padding: 20px;
     font-family: 'Quicksand', sans-serif;
@@ -185,4 +185,14 @@ section.light-section, section.dark-section {
     font-family: 'Quicksand', sans-serif;
     font-size: 140%;
     text-align: center;
+}
+
+section.dark-section {
+    background-color: #222831;
+    color: #eeeeee;
+}
+
+section.light-section {
+    background-color: #eeeeee;
+    color: #222831;
 }
