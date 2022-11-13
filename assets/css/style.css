@@ -197,4 +197,6 @@ section.dark-section {
 section.light-section {
     background-color: #eeeeee;
     color: #222831;
+    display: grid;
+    grid-template-columns: 1fr;
 }
