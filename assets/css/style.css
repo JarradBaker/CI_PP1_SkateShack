@@ -52,7 +52,8 @@ header nav ul li a:hover {
 /* Footer with social links */
 footer {
     padding-top: 30px;
-    height: minmax(100px, auto);
+    min-height: 100px;
+    max-height: auto;
     width: 100%;
     background-color: #eeeeee;
     display: grid;
@@ -166,10 +167,13 @@ main #index-main {
 
 /* Tricks Page */
 #tricks-main {
+    min-height: 500px;
+    max-height: auto;
     width: 100%;
     background-color: #222831;
     color: #eeeeee;
     font-family: 'Quicksand', sans-serif;
     font-size: 140%;
     text-align: center;
+    padding: 15px;
 }
