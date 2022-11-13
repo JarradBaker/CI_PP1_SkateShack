@@ -178,9 +178,10 @@ footer #social-links a:hover {
     padding: 15px;
 }
 
-section.light-section, section.dark-section {
+section.light-section , section.dark-section {
     min-height: 500px;
     max-height: auto;
+    height: auto;
     width: 100%;
     font-family: 'Quicksand', sans-serif;
     font-size: 140%;
@@ -199,4 +200,5 @@ section.light-section {
     color: #222831;
     display: grid;
     grid-template-columns: 1fr;
+    grid-auto-rows: auto;
 }
