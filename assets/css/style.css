@@ -190,6 +190,8 @@ section.light-section, section.dark-section {
 section.dark-section {
     background-color: #222831;
     color: #eeeeee;
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 section.light-section {
