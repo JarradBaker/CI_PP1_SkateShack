@@ -163,3 +163,13 @@ main #index-main {
     font-size: 120%;
 }
 
+
+/* Tricks Page */
+#tricks-main {
+    width: 100%;
+    background-color: #222831;
+    color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    text-align: center;
+}
