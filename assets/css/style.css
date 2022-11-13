@@ -177,3 +177,12 @@ main #index-main {
     text-align: center;
     padding: 15px;
 }
+
+section.light-section, section.dark-section {
+    min-height: 500px;
+    max-height: auto;
+    width: 100%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 140%;
+    text-align: center;
+}
