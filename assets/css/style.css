@@ -86,7 +86,7 @@ footer #social-links a:hover {
 
 /* INDEX PAGE */
 /* Main - Hero Image */
-main {
+main #index-main {
     height: 800px;
     width: 100%;
     position: relative;
