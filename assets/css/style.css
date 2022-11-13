@@ -52,7 +52,7 @@ header nav ul li a:hover {
 /* Footer with social links */
 footer {
     padding-top: 30px;
-    height: 100px;
+    height: minmax(100px, auto);
     width: 100%;
     background-color: #eeeeee;
     display: grid;
