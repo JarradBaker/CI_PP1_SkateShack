@@ -230,3 +230,7 @@ section.dark-section p {
     font-size: 140%;
     padding: 15px;
 }
+
+#boards-intro h1, #boards-intro p {
+    padding: 20px 0;
+}
