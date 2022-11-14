@@ -178,6 +178,10 @@ footer #social-links a:hover {
     padding: 15px;
 }
 
+main#tricks-main h1, main#tricks-main p {
+    padding: 20px 0px;
+}
+
 section.light-section , section.dark-section {
     min-height: 500px;
     max-height: auto;
