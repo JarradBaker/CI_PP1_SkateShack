@@ -234,3 +234,8 @@ section.dark-section p {
 #boards-intro h1, #boards-intro p {
     padding: 20px 0;
 }
+
+section.boards-grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
