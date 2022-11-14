@@ -238,4 +238,6 @@ section.dark-section p {
 section.boards-grid-container {
     display: grid;
     grid-template-columns: 1fr;
+    background-color: #222831;
+    color: #eeeeee;
 }
