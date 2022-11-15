@@ -248,6 +248,10 @@ section.boards-grid-container {
     position: relative;
 }
 
+.boards-grid-container .boards-grid-item img {
+    height: 100%;
+}
+
 .boards-grid-container .boards-grid-item input.submit-buy-now{
     position: absolute;
     left: 0;
