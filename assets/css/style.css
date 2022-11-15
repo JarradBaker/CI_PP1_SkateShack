@@ -253,3 +253,9 @@ section.boards-grid-container {
     left: 0;
     bottom: 0;
 }
+
+.boards-grid-container .boards-grid-item input.submit-add-basket{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
