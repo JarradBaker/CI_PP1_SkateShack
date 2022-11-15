@@ -246,10 +246,13 @@ section.boards-grid-container {
 
 .boards-grid-container .boards-main-grid-item {
     height: 300px;
-    border: solid yellow 2px;
     display: grid;
+    border: #00adb5 solid 5px;
+    border-radius: 50px;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
+    margin: 20px 0;
+    overflow: hidden;
 }
 
 .boards-grid-container .boards-main-grid-item .boards-grid-item {
@@ -262,7 +265,19 @@ section.boards-grid-container {
 
 .boards-grid-container .boards-main-grid-item .boards-grid-item img {
     height: 100%;
-    width: 100%;
+    width: 70%;
+}
+
+.boards-grid-container .boards-main-grid-item .boards-grid-item h3,
+.boards-grid-container .boards-main-grid-item .boards-grid-item p,
+.boards-grid-container .boards-main-grid-item .boards-grid-item span {
+    font-weight: bold;
+    padding: 1px;
+}
+
+.boards-grid-container .boards-main-grid-item .boards-grid-item h3,
+.boards-grid-container .boards-main-grid-item .boards-grid-item p {
+    padding-left: 10px;
 }
 
 .boards-grid-container .boards-main-grid-item .boards-grid-item input {
@@ -270,4 +285,12 @@ section.boards-grid-container {
     height: 20px;
     width: 80px;
     font-family: 'Quicksand', sans-serif;
+    background-color: #eeeeee;
+    border: 0;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.boards-grid-container .boards-main-grid-item .boards-grid-item input:hover {
+    background-color: #00adb5;
 }
