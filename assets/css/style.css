@@ -241,3 +241,15 @@ section.boards-grid-container {
     background-color: #222831;
     color: #eeeeee;
 }
+
+.boards-grid-container .boards-grid-item {
+    height: 300px;
+    border: solid yellow 2px;
+    position: relative;
+}
+
+.boards-grid-container .boards-grid-item input.submit-buy-now{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
