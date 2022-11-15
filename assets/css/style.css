@@ -240,26 +240,34 @@ section.boards-grid-container {
     grid-template-columns: 1fr;
     background-color: #222831;
     color: #eeeeee;
+    font-size: 100%;
+    font-family: 'Quicksand', sans-serif;
 }
 
-.boards-grid-container .boards-grid-item {
+.boards-grid-container .boards-main-grid-item {
     height: 300px;
     border: solid yellow 2px;
-    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
 }
 
-.boards-grid-container .boards-grid-item img {
+.boards-grid-container .boards-main-grid-item .boards-grid-item {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.boards-grid-container .boards-main-grid-item .boards-grid-item img {
     height: 100%;
+    width: 100%;
 }
 
-.boards-grid-container .boards-grid-item input.submit-buy-now{
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
-
-.boards-grid-container .boards-grid-item input.submit-add-basket{
-    position: absolute;
-    right: 0;
-    bottom: 0;
+.boards-grid-container .boards-main-grid-item .boards-grid-item input {
+    display: block;
+    height: 20px;
+    width: 80px;
+    font-family: 'Quicksand', sans-serif;
 }
