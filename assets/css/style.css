@@ -307,3 +307,22 @@ section.boards-grid-container {
     text-align: center;
     padding: 20px;
 }
+
+#contact-intro h1 {
+    padding-bottom: 20px;
+}
+
+#contact-intro form {
+    padding-top: 50px;
+}
+
+#contact-intro form fieldset {
+    padding: 20px 0;
+}
+
+#contact-intro form input,
+#contact-intro form label,
+#contact-intro form textarea {
+    width: 90%;
+    margin: 5px 0;
+}
