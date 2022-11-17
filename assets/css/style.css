@@ -295,3 +295,15 @@ section.boards-grid-container {
 .boards-grid-container .boards-main-grid-item .boards-grid-item input:hover {
     background-color: #00adb5;
 }
+
+#contact-intro {
+    font-size: 140%;
+    font-family: 'Quicksand', sans-serif;
+    width: 100%;
+    min-height: 600px;
+    max-height: auto;
+    background-color: #222831;
+    color: #eeeeee;
+    text-align: center;
+    padding: 20px;
+}
