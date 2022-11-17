@@ -296,6 +296,9 @@ section.boards-grid-container {
     background-color: #00adb5;
 }
 
+
+
+/* CONTACT PAGE */
 #contact-intro {
     font-size: 140%;
     font-family: 'Quicksand', sans-serif;
@@ -307,22 +310,33 @@ section.boards-grid-container {
     text-align: center;
     padding: 20px;
 }
-
 #contact-intro h1 {
     padding-bottom: 20px;
 }
-
 #contact-intro form {
     padding-top: 50px;
+    width: 100%;
 }
-
 #contact-intro form fieldset {
     padding: 20px 0;
+    max-width: 650px;
+    margin: 0 auto;
 }
-
 #contact-intro form input,
-#contact-intro form label,
 #contact-intro form textarea {
-    width: 90%;
+    max-width: 60%;
     margin: 5px 0;
+    background-color: #eeeeee;
+    color: #222831;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+#contact-intro form #form-submit {
+    width: 100px;
+    height: 50px;
+    background-color: #eeeeee;
+    color: #222831;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
 }
