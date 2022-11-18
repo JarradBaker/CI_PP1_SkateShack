@@ -157,12 +157,15 @@ footer #social-links a:hover {
 }
 
 #index-grid-container .grid-item hr {
-    margin: 0 50px;
+    margin: 0 auto;
+    max-width: 500px;
 }
 
 #index-grid-container .grid-item p {
     padding: 15px 0;
     font-size: 120%;
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 
@@ -344,7 +347,7 @@ section.boards-grid-container {
 
 
 /* MEDIA QUERIES */
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 845px) {
     /* Making Header and navbar responsive */
     header {
         grid-template-columns: 1fr 1fr;
@@ -355,22 +358,25 @@ section.boards-grid-container {
 
     /* Making the footer responsive */
     footer {
-        padding-top: 30px;
-        min-height: 100px;
-        max-height: auto;
-        width: 100%;
-        background-color: #eeeeee;
-        display: grid;
         grid-template-columns: 1fr 1fr;
     }
-    
     footer #copyright {
-        display: flex;
         justify-content: flex-start;
         padding: 10px 0 0 20px;
     }
-    
     footer #social-links {
         padding-top: 0;
     }
+
+    /* Index */
+    #index-grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    /* Tricks */
+
+    /* Boards */
+
+    /* Contact */
 }
