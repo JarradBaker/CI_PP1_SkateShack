@@ -170,7 +170,7 @@ footer #social-links a:hover {
 
 
 /* TRICKS PAGE */
-#tricks-main {
+.tricks-main {
     min-height: 500px;
     max-height: auto;
     width: 100%;
@@ -182,7 +182,8 @@ footer #social-links a:hover {
     padding: 15px;
 }
 
-main#tricks-main h1, main#tricks-main p {
+.tricks-main h1, .tricks-main p,
+.tricks-main h2 {
     padding: 20px 0px;
 }
 
@@ -375,6 +376,18 @@ section.boards-grid-container {
     }
 
     /* Tricks */
+    section.dark-section {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    section.light-section {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    section.light-section .tricks-grid-item.tricks-video,
+    section.dark-section .tricks-grid-item.tricks-video {
+        margin: auto;
+    }
 
     /* Boards */
 
