@@ -247,6 +247,7 @@ section.boards-grid-container {
 
 .boards-grid-container .boards-main-grid-item {
     height: 300px;
+    max-width: 500px;
     display: grid;
     border: #00adb5 solid 5px;
     border-radius: 50px;
@@ -339,4 +340,37 @@ section.boards-grid-container {
     color: #222831;
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
+}
+
+
+/* MEDIA QUERIES */
+@media screen and (min-width: 800px) {
+    /* Making Header and navbar responsive */
+    header {
+        grid-template-columns: 1fr 1fr;
+    }
+    header h1 {
+        justify-self: flex-start;
+    }
+
+    /* Making the footer responsive */
+    footer {
+        padding-top: 30px;
+        min-height: 100px;
+        max-height: auto;
+        width: 100%;
+        background-color: #eeeeee;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    footer #copyright {
+        display: flex;
+        justify-content: flex-start;
+        padding: 10px 0 0 20px;
+    }
+    
+    footer #social-links {
+        padding-top: 0;
+    }
 }
