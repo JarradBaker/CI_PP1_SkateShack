@@ -350,7 +350,9 @@ section.boards-grid-container {
 /* MEDIA QUERIES */
 /* Small Phones */
 @media screen and (max-width: 349px) {
-
+    header nav ul li a {
+        font-size: 1rem;
+    }
 }
 
 /* Ipads and tablets */
