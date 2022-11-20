@@ -353,6 +353,12 @@ section.boards-grid-container {
     header nav ul li a {
         font-size: 1rem;
     }
+    footer #copyright {
+        font-size: 120%;
+    }
+    footer #social-links {
+        font-size: 150%;
+    }
 }
 
 /* Ipads and tablets */
