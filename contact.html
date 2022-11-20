@@ -33,33 +33,39 @@
         <p>
             Below is our contact form. Please use this as a means to get in touch with us for anything, from checking on an order, to ask a question about ourselves. We have not made the "Order ID" a mandatory field, just in case it is a general query, but if the question is about an existing order, please fill it in, so we can find your order. 
         </p>
+        <div id="contact-grid-container">
+            <div class="contact-grid-item">
+                <form action="#" method="post">
+                    <fieldset>
+                        <legend>Contact Us</legend>
+                        <label for="firstName">First Name:</label>
+                        <br>
+                        <input type="text" id="firstName" required>
+                        <br>
+                        <label for="lastName">Last Name:</label>
+                        <br>
+                        <input type="text" id="lastName" required>
+                        <br>
+                        <label for="email">Email:</label>
+                        <br>
+                        <input type="email" id="email" required>
+                        <br>
+                        <label for="orderID">Order ID:</label>
+                        <br>
+                        <input type="text" id="orderID" required>
+                        <br>
+                        <label for="message">Message:</label>
+                        <br>
+                        <textarea id="message" cols="35" rows="10" name="message" placeholder="Please input your message here :)" required></textarea>
+                        <br>
+                        <input type="submit" id="form-submit" value="Submit Form">
+                    </fieldset>
+                </form>
+            </div>
+            <div class="contact-grid-item">
 
-        <form action="#" method="post">
-            <fieldset>
-                <legend>Contact Us</legend>
-                <label for="firstName">First Name:</label>
-                <br>
-                <input type="text" id="firstName" required>
-                <br>
-                <label for="lastName">Last Name:</label>
-                <br>
-                <input type="text" id="lastName" required>
-                <br>
-                <label for="email">Email:</label>
-                <br>
-                <input type="email" id="email" required>
-                <br>
-                <label for="orderID">Order ID:</label>
-                <br>
-                <input type="text" id="orderID" required>
-                <br>
-                <label for="message">Message:</label>
-                <br>
-                <textarea id="message" cols="35" rows="10" name="message" placeholder="Please input your message here :)" required></textarea>
-                <br>
-                <input type="submit" id="form-submit" value="Submit Form">
-            </fieldset>
-        </form>
+            </div>
+        </div>
     </section>
 
 

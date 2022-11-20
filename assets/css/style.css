@@ -319,17 +319,20 @@ section.boards-grid-container {
 #contact-intro h1 {
     padding-bottom: 20px;
 }
-#contact-intro form {
+#contact-intro p {
+    padding-bottom: 25px;
+}
+#contact-intro div#contract-grid-container div.contact-grid-item form {
     padding-top: 50px;
     width: 100%;
 }
-#contact-intro form fieldset {
+#contact-intro #contact-grid-container .contact-grid-item form fieldset {
     padding: 20px 0;
     max-width: 650px;
     margin: 0 auto;
 }
-#contact-intro form input,
-#contact-intro form textarea {
+#contact-grid-container .contact-grid-item form input,
+#contact-grid-container .contact-grid-item form textarea {
     max-width: 60%;
     margin: 5px 0;
     background-color: #eeeeee;
@@ -338,7 +341,7 @@ section.boards-grid-container {
     font-weight: bold;
     text-align: center;
 }
-#contact-intro form #form-submit {
+#contact-grid-container .contact-grid-item form #form-submit {
     width: 100px;
     height: 50px;
     background-color: #eeeeee;
