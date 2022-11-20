@@ -350,6 +350,7 @@ section.boards-grid-container {
 /* MEDIA QUERIES */
 /* Small Phones */
 @media screen and (max-width: 349px) {
+    /* Index and nav and footer */
     header nav ul li a {
         font-size: 1rem;
     }
@@ -358,6 +359,10 @@ section.boards-grid-container {
     }
     footer #social-links {
         font-size: 150%;
+    }
+    /* Tricks page */
+    section.light-section, section.dark-section {
+        padding: 0;
     }
 }
 
