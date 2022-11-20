@@ -348,6 +348,12 @@ section.boards-grid-container {
 
 
 /* MEDIA QUERIES */
+/* Small Phones */
+@media screen and (max-width: 349px) {
+
+}
+
+/* Ipads and tablets */
 @media screen and (min-width: 845px) {
     /* Making Header and navbar responsive */
     header {
@@ -396,6 +402,7 @@ section.boards-grid-container {
 
 }
 
+/* larger screens */
 @media screen and (min-width: 1400px) {
 
     /* Boards */
