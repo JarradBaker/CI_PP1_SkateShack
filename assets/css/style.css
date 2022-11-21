@@ -314,7 +314,6 @@ section.boards-grid-container {
     background-color: #222831;
     color: #eeeeee;
     text-align: center;
-    padding: 20px;
 }
 #contact-intro h1 {
     padding-bottom: 20px;
@@ -322,14 +321,27 @@ section.boards-grid-container {
 #contact-intro p {
     padding-bottom: 25px;
 }
+
+#contact-intro #contact-grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
 #contact-intro #contact-grid-container .contact-grid-item form {
-    padding-top: 50px;
     width: 100%;
 }
 
 #contact-intro #contact-grid-container .contact-grid-item {
-    padding-top: 100px;
+    padding-top: 50px;
 }
+
+#contact-intro #contact-grid-container .contact-grid-item iframe {
+    min-width: 320px;
+    max-width: auto;
+    min-height: 320px;
+    max-height: 700px;
+}
+
 #contact-intro #contact-grid-container .contact-grid-item form fieldset {
     padding: 20px 0;
     max-width: 650px;
@@ -429,5 +441,18 @@ section.boards-grid-container {
     /* Boards */
     section.boards-grid-container {
         grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    /* Contact */
+    #contact-intro #contact-grid-container {
+        grid-template-columns: 1fr 1fr;
+    }
+    #contact-intro #contact-grid-container .contact-grid-item {
+        padding: 50px;
+    }
+    #contact-intro #contact-grid-container .contact-grid-item iframe {
+        padding: 50px;
+        width: 600px;
+        height: 600px;
     }
 }
