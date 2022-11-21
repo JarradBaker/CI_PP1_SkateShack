@@ -322,9 +322,13 @@ section.boards-grid-container {
 #contact-intro p {
     padding-bottom: 25px;
 }
-#contact-intro div#contract-grid-container div.contact-grid-item form {
+#contact-intro #contact-grid-container .contact-grid-item form {
     padding-top: 50px;
     width: 100%;
+}
+
+#contact-intro #contact-grid-container .contact-grid-item {
+    padding-top: 100px;
 }
 #contact-intro #contact-grid-container .contact-grid-item form fieldset {
     padding: 20px 0;
