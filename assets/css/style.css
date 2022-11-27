@@ -169,6 +169,12 @@ footer #social-links a:hover {
     margin: 0 auto;
 }
 
+#history-section {
+    min-height: 600px;
+    max-height: auto;
+    width: 100%;
+    background-color: #222831;
+}
 
 /* TRICKS PAGE */
 .tricks-main {
