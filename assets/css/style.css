@@ -176,6 +176,14 @@ footer #social-links a:hover {
     background-color: #222831;
 }
 
+#history-section h2 {
+    font-size: 240%;
+    color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
 /* TRICKS PAGE */
 .tricks-main {
     min-height: 500px;
