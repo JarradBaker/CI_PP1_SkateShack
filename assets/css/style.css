@@ -338,7 +338,7 @@ section.boards-grid-container {
     text-align: center;
 }
 #contact-intro h1 {
-    padding-bottom: 20px;
+    padding: 40px 0;
 }
 #contact-intro p {
     padding-bottom: 25px;
