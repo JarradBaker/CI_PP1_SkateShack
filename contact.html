@@ -31,18 +31,29 @@
         </nav>
     </header>
 
+    <!-- Adding the content to the contract intro section -->
     <section id="contact-intro">
+        <!-- Heading -->
         <h1>Contact Us</h1>
+        <!-- Explanation -->
         <p>
             Below is our contact form. Please use this as a means to get in touch with us for anything, from checking on an order, to ask a question about ourselves. We have not made the "Order ID" a mandatory field, just in case it is a general query, but if the question is about an existing order, please fill it in, so we can find your order. 
         </p>
+        <!-- Setting the grid container for the form and the map -->
         <div id="contact-grid-container">
+            <!-- Creating the grid item for the form -->
             <div class="contact-grid-item">
+                <!-- creating the form -->
                 <form action="#" method="post">
+                    <!-- Adding a fieldset -->
                     <fieldset>
+                        <!-- Fieldset title -->
                         <legend>Contact Us</legend>
+                        <!-- Adding the label for the input -->
                         <label for="firstName">First Name:</label>
+                        <!-- Using a br for layout -->
                         <br>
+                        <!-- Adding an input field for the name -->
                         <input type="text" id="firstName" required>
                         <br>
                         <label for="lastName">Last Name:</label>
@@ -51,6 +62,7 @@
                         <br>
                         <label for="email">Email:</label>
                         <br>
+                        <!-- Adding an email input -->
                         <input type="email" id="email" required>
                         <br>
                         <label for="orderID">Order ID:</label>
@@ -59,8 +71,10 @@
                         <br>
                         <label for="message">Message:</label>
                         <br>
+                        <!-- Adding a text area for larger input -->
                         <textarea id="message" cols="35" rows="10" name="message" placeholder="Please input your message here :)" required></textarea>
                         <br>
+                        <!-- Adding a button input -->
                         <input type="submit" id="form-submit" value="Submit Form">
                     </fieldset>
                 </form>
