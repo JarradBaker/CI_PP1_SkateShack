@@ -209,3 +209,24 @@ The website is designed with the following target audience in mind:
 14. As a site owner, I want users to know where our store is
 15. As a site owner, I want users to be able to contact us
 16. As a site owner, I want to enrich our users' skateboarding experience
+
+## Design
+
+### Design Choices
+The website was designed to give a "street" feel to the users, which is why a colder colour theme was used. The images of products and skateboarding were used to engage the users.
+
+### Colour
+Colour was a very important aspect for engaging with the audience, as anything too childish, or bright may put visitors off. For this reason, I chose to use a nice cold themed colour set for the website, providing a "street" feel. For accessibility reasons, the colours were tested on Webaim using their contrast checker, and the darkest and lightest colours got a contrast ratio of 12.78:1 meaning that they were a great fit.
+![Colours image](docs/Colours.png)
+
+### Fonts
+The chosen font for the website was "Quicksand", with sans serif as a backup font. I originally also used "Lobster" for headings, but I found that "Quicksand" fitted in much better for my target audience and the feel of the site, so I used a higher weight for the headings to make it appear bolder.
+
+### Structure
+To keep the user interface as beginner friendly, and simple as possible, I went for a classic looking nav bar style. It is a simple layout with the logo to the left on desktops, and above on mobile. The theme remains the same throughout all four pages:
+- #### Index page: Shows an image of a skateboarder and why you would choose the company. Also contains the history of the company.
+- #### Tricks page: Gives explanations of how to perform various tricks, enriching the users skateboarding experience. Also has a video for each trick.
+- #### Boards page: Allows the users to see the products that are available.
+- #### Contact page: Gives users a chance to communicate with the company, and also shows a real map displaying where the physical store is.
+
+### Wireframes
