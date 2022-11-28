@@ -230,3 +230,15 @@ To keep the user interface as beginner friendly, and simple as possible, I went 
 - Contact page: Gives users a chance to communicate with the company, and also shows a real map displaying where the physical store is.
 
 ### Wireframes
+<details><summary>Home</Summary>
+<img src="docs/wireframes/index.png">  
+</details>
+<details><summary>Tricks</Summary>
+<img src="docs/wireframes/tricks.png">  
+</details>
+<details><summary>Boards</Summary>
+<img src="docs/wireframes/boards.png">  
+</details>
+<details><summary>Contact</Summary>
+<img src="docs/wireframes/contact.png">  
+</details>
