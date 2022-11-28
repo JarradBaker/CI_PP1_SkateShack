@@ -224,9 +224,9 @@ The chosen font for the website was "Quicksand", with sans serif as a backup fon
 
 ### Structure
 To keep the user interface as beginner friendly, and simple as possible, I went for a classic looking nav bar style. It is a simple layout with the logo to the left on desktops, and above on mobile. The theme remains the same throughout all four pages:
-- #### Index page: Shows an image of a skateboarder and why you would choose the company. Also contains the history of the company.
-- #### Tricks page: Gives explanations of how to perform various tricks, enriching the users skateboarding experience. Also has a video for each trick.
-- #### Boards page: Allows the users to see the products that are available.
-- #### Contact page: Gives users a chance to communicate with the company, and also shows a real map displaying where the physical store is.
+- Index page: Shows an image of a skateboarder and why you would choose the company. Also contains the history of the company.
+- Tricks page: Gives explanations of how to perform various tricks, enriching the users skateboarding experience. Also has a video for each trick.
+- Boards page: Allows the users to see the products that are available.
+- Contact page: Gives users a chance to communicate with the company, and also shows a real map displaying where the physical store is.
 
 ### Wireframes
