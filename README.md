@@ -130,7 +130,7 @@ Happy coding!
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colour](#colour)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
