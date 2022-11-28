@@ -150,3 +150,19 @@ Happy coding!
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+## Project Goals
+
+### User Goals
+- Find good quality skateboards
+- See examples of pricing for the products
+- Learn more about skateboarding
+- Find the location of the store
+- Learn what makes this company different
+- Learn how to use skateboards
+
+### Website Owner Goals
+- Reach the target audience
+- Increase the traffic and sales
+- Direct interaction with customers
+- Show what makes this company different
