@@ -126,7 +126,7 @@ Happy coding!
   2. [Website Owner Goals](#website-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requrements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
