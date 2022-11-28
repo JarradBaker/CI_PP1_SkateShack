@@ -250,7 +250,7 @@ The following languages were used to develop the website:
 - HTML
 - CSS
 
-###Frameworks & Tools
+### Frameworks & Tools
 The following frameworks and tools were used to develop the website:
 - Git
 - Github
