@@ -115,6 +115,6 @@ Happy coding!
 # Skate Shack
 (Developer: Jarrad Baker)
 
-![Responsive image](docs/responsive.png)
+![Mockup image](docs/responsive.png)
 
 [Live webpage](https://jarradbaker.github.io/CI_PP1_SkateShack/)
