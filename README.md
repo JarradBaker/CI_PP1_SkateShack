@@ -106,3 +106,15 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+
+
+
+
+# Skate Shack
+(Developer: Jarrad Baker)
+
+![Responsive image](docs/responsive.png)
+
+[Live webpage](https://jarradbaker.github.io/CI_PP1_SkateShack/)
