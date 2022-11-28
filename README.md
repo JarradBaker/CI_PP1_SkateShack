@@ -242,3 +242,20 @@ To keep the user interface as beginner friendly, and simple as possible, I went 
 <details><summary>Contact</Summary>
 <img src="docs/wireframes/contact.png">  
 </details>
+
+## Technologies Used
+
+### Languages
+The following languages were used to develop the website:
+- HTML
+- CSS
+
+###Frameworks & Tools
+The following frameworks and tools were used to develop the website:
+- Git
+- Github
+- Gitpod
+- Google Fonts
+- Font Awesome
+- Balsamiq
+- Favicon.io
