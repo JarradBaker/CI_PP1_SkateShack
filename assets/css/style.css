@@ -388,6 +388,13 @@ section.boards-grid-container {
     font-weight: bold;
 }
 
+/* 404 PAGE */
+#error-404 {
+    background-color: #222831;
+    color: #eeeeee;
+    font-family: 'Quicksand', sans-serif;
+}
+
 
 /* MEDIA QUERIES */
 /* Small Phones */
