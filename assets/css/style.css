@@ -396,14 +396,15 @@ section.boards-grid-container {
     text-align: center;
 }
 
-#error-404 h2,
-#error-404 p {
+#error-404 .grid-item-404 h2,
+#error-404 .grid-item-404 p {
     padding: 40px 0;
 }
 
-#error-404 img {
+#error-404 .grid-item-404 img {
     max-width: 320px;
     max-height: 320px;
+    margin: 40px 0;
 }
 
 
