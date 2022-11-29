@@ -394,6 +394,8 @@ section.boards-grid-container {
     color: #eeeeee;
     font-family: 'Quicksand', sans-serif;
     text-align: center;
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 #error-404 .grid-item-404 h2,
@@ -495,5 +497,15 @@ section.boards-grid-container {
         padding: 50px;
         width: 600px;
         height: 600px;
+    }
+
+    /* 404 */
+    #error-404 {
+        grid-template-columns: 1fr 1fr;
+    }
+    #error-404 .grid-item-404 img {
+        max-width: 800px;
+        max-height:  500px;
+        margin: 40px 0;
     }
 }
