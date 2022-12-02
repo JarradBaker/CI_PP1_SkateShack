@@ -1,10 +1,13 @@
+/* Importing the quicksand font from google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto:wght@700&display=swap');
 
+/* Setting border box accross everything */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
 
 /* HEADER AND FOOTER */
 /* Header - Logo and Navigation */
@@ -49,6 +52,7 @@ header nav ul li a.current-page {
     font-weight: 700;
     color: #00adb5;
 }
+
 
 /* Footer with social links */
 footer {
@@ -192,6 +196,7 @@ footer #social-links a:hover {
     padding: 20px;
 }
 
+
 /* TRICKS PAGE */
 .tricks-main {
     min-height: 500px;
@@ -325,7 +330,6 @@ section.boards-grid-container {
 }
 
 
-
 /* CONTACT PAGE */
 #contact-intro {
     font-size: 140%;
@@ -387,6 +391,7 @@ section.boards-grid-container {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
 }
+
 
 /* 404 PAGE */
 #error-404 {
