@@ -93,7 +93,7 @@ The website is designed with the following target audience in mind:
 #### Site Owner
 13. As a site owner, I want users to find out about our products
 14. As a site owner, I want users to know where our store is
-15. As a site owner, I want users to be able to contact us
+15. As a site owner, I want users to be able to see a 404 page if anything goes wrong
 16. As a site owner, I want to enrich our users' skateboarding experience
 
 ## Design
@@ -145,3 +145,75 @@ The following frameworks and tools were used to develop the website:
 - Font Awesome
 - Balsamiq
 - Favicon.io
+
+## Features
+The website contains 5 pages including the 404 page, and a total of 13 features
+
+###Header (logo and navigation)
+- Shows on every page
+- The nav links stack under the logo on smaller screens making it responsive
+- Enables easy and smooth navigation
+- The current page is highlighted in blue
+- User Stories:
+
+###Footer
+- Shows on every page like the header
+- Like the header, the social links also stack underneath the copyright text on smaller screens
+- User Stories:
+
+###Tricks
+- Shows users explanations as well as videos on how to do tricks, enhancing their exoperience.
+- Has an introduction, and an outro
+- User Stories:
+
+###Trick videos
+- Part of the tricks page
+- Has a video with controls explaining how to do the trick
+- User Stories:
+
+###Hero Image
+- Makes the website more appealing and professional looking
+- Connects with the target audience
+- User Stories:
+
+###Why Choose Us?
+- Explains how the site differs from competitors
+- Provides users more info about the products
+- User Stories:
+
+###History
+- Gives the user an explanation of the company/website
+- Tells the personal story of the companies creation
+- User Stories:
+
+###Boards
+- Allows users to see all products available
+- Located on the Boards page
+- User Stories:
+
+###Products
+- Shows the user the individual info for each product
+- Allows them to purchase the item
+- Located on the boards page
+- User Stories:
+
+###Contact form
+- Allows users to contact the site owner/company
+- Can be used to chase up an order
+- Located on the contact page
+- User Stories:
+
+###Google Map
+- Shows the location of the physical store on a google maps window
+- Located on the contact page
+- User Stories:
+
+###Address
+- Provides the physical store location
+- Located above the google map
+- User Stories:
+
+###404 page
+- Redirects the user to a working page
+- Explains what the issue is
+- User Stories:
