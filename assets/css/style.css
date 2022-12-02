@@ -251,6 +251,12 @@ section.dark-section p {
     padding: 20px 0;
 }
 
+section.light-section iframe, 
+section.dark-section iframe {
+    width: 320px;
+    height: 200px;
+}
+
 
 /* BOARDS PAGE */
 #boards-intro {
@@ -476,6 +482,12 @@ section.boards-grid-container {
         margin: auto;
     }
 
+    section.light-section iframe, 
+    section.dark-section iframe {
+        width: 320px;
+        height: 200px;
+    }
+
     /* Boards */
     section.boards-grid-container {
         grid-template-columns: 1fr 1fr;
@@ -489,6 +501,13 @@ section.boards-grid-container {
     /* Boards */
     section.boards-grid-container {
         grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    /* Tricks */
+    section.light-section iframe, 
+    section.dark-section iframe {
+        width: 640px;
+        height: 400px;
     }
 
     /* Contact */
