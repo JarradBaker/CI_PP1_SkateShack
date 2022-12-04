@@ -128,6 +128,9 @@ To keep the user interface as beginner friendly, and simple as possible, I went 
 <details><summary>Contact</Summary>
 <img src="docs/wireframes/contact.png">  
 </details>
+<details><summary>404</Summary>
+<img src="docs/wireframes/404.png">  
+</details>
 
 ## Technologies Used
 
