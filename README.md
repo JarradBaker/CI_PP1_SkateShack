@@ -259,3 +259,195 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 <details><summary>404 Page</Summary>
 <img src="docs/features/404page.png">  
 </details>
+
+## Validation
+
+### HTML Validation
+
+### CSS Validation
+
+### Accessibility
+
+### Performance
+
+### Performance tests on various devices
+
+### Browser Compatability
+
+### Testing User Stories
+
+1. As a first time user, I want to understand the product
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+2. As a first time user, I want to learn about the company
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+3. As a first time user, I want to know how much the product costs
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+4. As a first time user, I want to learn more about skateboarding
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+5. As a first time user, I want to learn how to use the product
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+6. As a first time user, I want to ask questions about my order
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+7. As a first time user, I want to know why to choose this company
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+8. As a first time user, I want to be able to navigate the site easily
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+9. As a returning user, I want to be able to contact the company
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+10. As a returning user, I want to learn more tricks
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+11. As a returning user, I want to learn where a physical store is
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+12. As a returning user, I want to look at products
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+13. As a site owner, I want users to find out about our products
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+14. As a site owner, I want users to have a good visual experience when using the website
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+15. As a site owner, I want users to be able to see a 404 page if anything goes wrong
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
+
+16. As a site owner, I want to enrich our users' skateboarding experience
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</Summary>
+<img src="docs/features/404page.png">  
+</details>
