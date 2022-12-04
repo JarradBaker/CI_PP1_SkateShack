@@ -58,7 +58,6 @@ header nav ul li a.current-page {
 footer {
     padding-top: 30px;
     min-height: 100px;
-    max-height: auto;
     width: 100%;
     background-color: #eeeeee;
     display: grid;
@@ -130,7 +129,6 @@ footer #social-links a:hover {
 /* Why choose us section */
 #why-choose-us {
     min-height: 800px;
-    max-height: auto;
     width: 100%;
     background-color: #222831;
 }
@@ -175,7 +173,6 @@ footer #social-links a:hover {
 
 #history-section {
     min-height: 600px;
-    max-height: auto;
     width: 100%;
     background-color: #222831;
 }
@@ -200,7 +197,6 @@ footer #social-links a:hover {
 /* TRICKS PAGE */
 .tricks-main {
     min-height: 500px;
-    max-height: auto;
     width: 100%;
     background-color: #222831;
     color: #eeeeee;
@@ -217,7 +213,6 @@ footer #social-links a:hover {
 
 section.light-section , section.dark-section {
     min-height: 500px;
-    max-height: auto;
     height: auto;
     width: 100%;
     font-family: 'Quicksand', sans-serif;
@@ -342,7 +337,6 @@ section.boards-grid-container {
     font-family: 'Quicksand', sans-serif;
     width: 100%;
     min-height: 600px;
-    max-height: auto;
     background-color: #222831;
     color: #eeeeee;
     text-align: center;
@@ -369,7 +363,6 @@ section.boards-grid-container {
 
 #contact-intro #contact-grid-container .contact-grid-item iframe {
     min-width: 320px;
-    max-width: auto;
     min-height: 320px;
     max-height: 700px;
 }
