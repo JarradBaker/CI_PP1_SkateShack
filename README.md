@@ -239,7 +239,7 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 ### Google Map
 - Shows the location of the physical store on a google maps window
 - Located on the contact page
-- User Stories: 2, 9, 11, 14
+- User Stories: 2, 9, 11
 <details><summary>Google Map</Summary>
 <img src="docs/features/GoogleMap.png">  
 </details>
@@ -247,7 +247,7 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 ### Address
 - Provides the physical store location
 - Located above the google map
-- User Stories: 2, 9, 11, 14
+- User Stories: 2, 9, 11
 <details><summary>Address</Summary>
 <img src="docs/features/Address.png">  
 </details>
@@ -264,7 +264,39 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 ### HTML Validation
 
+The Nu HTML Checker (W3C) is used to validate HTML documents. This ensures that all unintended mistakes are spotted before release, so that they can be corrected. All of my pages passed the check without any errors, including the 404 page.
+
+<details><summary>Home</Summary>
+<img src="docs/Validation/HTML/index.png">  
+</details>
+
+<details><summary>Tricks</Summary>
+<img src="docs/Validation/HTML/tricks.png">  
+</details>
+
+<details><summary>Boards</Summary>
+<img src="docs/Validation/HTML/boards.png">  
+</details>
+
+<details><summary>Contact</Summary>
+<img src="docs/Validation/HTML/contact.png">   
+</details>
+
+<details><summary>404</Summary>
+<img src="docs/Validation/HTML/404.png">
+</details>
+
 ### CSS Validation
+
+The W3C Jigsaw CSS Validation Service is used in exactly the same way as the Nu HTML Validator, but for CSS. I ran both my actual style.css file, and an actual web page through it, and both passed without any errors.
+
+<details><summary>404</Summary>
+<img src="docs/Validation/HTML/404.png">
+</details>
+
+<details><summary>404</Summary>
+<img src="docs/Validation/CSS04.png">
+</details>
 
 ### Accessibility
 
