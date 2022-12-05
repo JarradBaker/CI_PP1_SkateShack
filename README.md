@@ -363,6 +363,7 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 |-------------|------------|---------------------|-------------------|
 | Header | Scroll up to the top of any page | See the logo and nav bar | Works as expected |
 | Footer | Scroll down to the bottom of any page | See the social links | Works as expected |
+| 404 Page | If a link is broken, or the url is entered incorrectly | See the 404 Page | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -372,8 +373,9 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Contact form | Navigate to the Contact page | See the Contact form and be able to fill it in | Works as expected |
+| Google Map | Navigate to the Contact page | See the Google Map | Works as expected |
+| Address | Navigate to the Contact page | See the Address above the Google Map | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -383,8 +385,8 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Tricks | Navigate to the Tricks page and find any Trick | See the tricks | Works as expected |
+| Trick Videos | Navigate to the Tricks page and find any Trick Video | See the trick videos | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -394,8 +396,8 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Google Map | Navigate to the Contact page | See the Google Map | Works as expected |
+| Address | Navigate to the Contact page | See the Address above the Google Map | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -405,8 +407,8 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Boards | Navigate to the Boards page | See the page containing all the products | Works as expected |
+| Products | Navigate to the Boards page, and scroll down | See all of the products available | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -416,8 +418,8 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Boards | Navigate to the Boards page | See the page containing all the products | Works as expected |
+| Products | Navigate to the Boards page, and scroll down | See all of the products available | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -427,8 +429,9 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Header | Scroll up to the top of any page | See the logo and nav bar | Works as expected |
+| Footer | Scroll down to the bottom of any page | See the social links | Works as expected |
+| Hero Image | Navigate to the top of the Home page | See the Hero Image and cover text | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -438,8 +441,7 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| 404 Page | If a link is broken, or the url is entered incorrectly | See the 404 Page | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
@@ -449,8 +451,8 @@ The website contains 5 pages including the 404 page, and a total of 13 features
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Tricks | Navigate to the Tricks page and find any Trick | See the tricks | Works as expected |
+| Trick Videos | Navigate to the Tricks page and find any Trick Video | See the trick videos | Works as expected |
 
 <details><summary>Screenshots</Summary>
 <img src="docs/features/404page.png">  
