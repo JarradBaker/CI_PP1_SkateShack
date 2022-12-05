@@ -290,12 +290,12 @@ The Nu HTML Checker (W3C) is used to validate HTML documents. This ensures that 
 
 The W3C Jigsaw CSS Validation Service is used in exactly the same way as the Nu HTML Validator, but for CSS. I ran both my actual style.css file, and an actual web page through it, and both passed without any errors.
 
-<details><summary>404</Summary>
-<img src="docs/Validation/HTML/404.png">
+<details><summary>Web Page</Summary>
+<img src="docs/Validation/CSS/CSS.png">
 </details>
 
-<details><summary>404</Summary>
-<img src="docs/Validation/CSS04.png">
+<details><summary>Stylesheet</Summary>
+<img src="docs/Validation/CSS/stylesheet.png">
 </details>
 
 ### Accessibility
