@@ -304,7 +304,22 @@ The W3C Jigsaw CSS Validation Service is used in exactly the same way as the Nu 
 
 ### Performance tests on various devices
 
-### Browser Compatability
+Throughout development and testing, I used the following devices to ensure that the site was responsive, and worked as intended.
+
+- Samsung Galaxy ZFold 2 (both ultra slim mode, and wide mode)
+- Microsoft Surface Book 2 (Both as the laptop, and tablet)
+- Macbook Pro
+- Desktop PC with a 32" monitor
+
+### Browser Compatibility
+
+The website was tested on several web browsers to ensure consistency. The browsers used are as follows:
+
+- Microsoft Edge
+- Google Chrome
+- Brave Browser (A Chrome based browser)
+- Mozilla Firefox
+- Opera GX
 
 ### Testing User Stories
 
