@@ -334,12 +334,22 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Products | Navigate to the Boards page, and scroll down | See all of the products available | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/TricksTest.png">
-  <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
-  <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep1.png">
-  <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep2.png">
-  <img src="docs/Validation/UserStoryTests/BoardsTest.png">
-  <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  <details><summary>Tricks</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksTest.png">
+  </details>
+  <details><summary>Tricks Videos</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  </details>
+  <details><summary>Why Choose Us?</Summary>
+    <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep1.png">
+    <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep2.png">
+  </details>
+  <details><summary>Boards</Summary>
+    <img src="docs/Validation/UserStoryTests/BoardsTest.png">
+  </details>
+  <details><summary>Products</Summary>
+    <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  </details>
 </details>
 
 2. As a first time user, I want to learn about the company
@@ -352,10 +362,19 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Address | Navigate to the Contact page | See the Address above the Google Map | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/FooterTest.png">
-  <img src="docs/Validation/UserStoryTests/HistoryTestStep1.png">
-  <img src="docs/Validation/UserStoryTests/HistoryTestStep2.png">
-  <img src="docs/Validation/UserStoryTests/AddressTest.png">
+  <details><summary>Footer</Summary>
+    <img src="docs/Validation/UserStoryTests/FooterTest.png">
+  </details>
+  <details><summary>History</Summary>
+    <img src="docs/Validation/UserStoryTests/HistoryTestStep1.png">
+    <img src="docs/Validation/UserStoryTests/HistoryTestStep2.png">
+  </details>
+  <details><summary>Google Map</Summary>
+    <img src="docs/Validation/UserStoryTests/GoogleMapTest.png">
+  </details>
+  <details><summary>Address</Summary>
+    <img src="docs/Validation/UserStoryTests/AddressTest.png">
+  </details>
 </details>
 
 3. As a first time user, I want to know how much the product costs
@@ -366,8 +385,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Products | Navigate to the Boards page, and scroll down | See all of the products available | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/BoardsTest.png">
-  <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  <details><summary>Boards</Summary>
+    <img src="docs/Validation/UserStoryTests/BoardsTest.png">
+  </details>
+  <details><summary>Products</Summary>
+    <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  </details>
 </details>
 
 4. As a first time user, I want to learn more about skateboarding
@@ -378,8 +401,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Trick Videos | Navigate to the Tricks page and find any Trick Video | See the trick videos | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/TricksTest.png">
-  <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">  
+  <details><summary>Tricks</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksTest.png">
+  </details>
+  <details><summary>Tricks Videos</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  </details>
 </details>
 
 5. As a first time user, I want to learn how to use the product
@@ -390,8 +417,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Trick Videos | Navigate to the Tricks page and find any Trick Video | See the trick videos | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/TricksTest.png">
-  <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  <details><summary>Tricks</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksTest.png">
+  </details>
+  <details><summary>Tricks Videos</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  </details>
 </details>
 
 6. As a first time user, I want to ask questions about my order
@@ -401,7 +432,9 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Contact form | Navigate to the Contact page | See the Contact form and be able to fill it in | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/ContactFormTest.png"> 
+  <details><summary>Contact Form</Summary>
+    <img src="docs/Validation/UserStoryTests/ContactFormTest.png"> 
+  </details>
 </details>
 
 7. As a first time user, I want to know why to choose this company
@@ -412,10 +445,14 @@ The website was tested on several web browsers to ensure consistency. The browse
 | History | Navigate to the Home page and scroll down to the bottom | See the History of Skate Shack section | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep1.png">
-  <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep2.png">
-  <img src="docs/Validation/UserStoryTests/HistoryTestStep1.png">
-  <img src="docs/Validation/UserStoryTests/HistoryTestStep2.png">
+  <details><summary>Why Choose Us?</Summary>
+    <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep1.png">
+    <img src="docs/Validation/UserStoryTests/WhyChooseUsTestStep2.png">
+  </details>
+  <details><summary>History</Summary>
+    <img src="docs/Validation/UserStoryTests/HistoryTestStep1.png">
+    <img src="docs/Validation/UserStoryTests/HistoryTestStep2.png">
+  </details>
 </details>
 
 8. As a first time user, I want to be able to navigate the site easily
@@ -427,9 +464,15 @@ The website was tested on several web browsers to ensure consistency. The browse
 | 404 Page | If a link is broken, or the url is entered incorrectly | See the 404 Page | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/HeaderTest.png">
-  <img src="docs/Validation/UserStoryTests/FooterTest.png">
-  <img src="docs/Validation/UserStoryTests/404Test.png">
+  <details><summary>Header</Summary>
+    <img src="docs/Validation/UserStoryTests/HeaderTest.png">
+  </details>
+  <details><summary>Footer</Summary>
+    <img src="docs/Validation/UserStoryTests/FooterTest.png">
+  </details>
+  <details><summary>404</Summary>
+    <img src="docs/Validation/UserStoryTests/404Test.png">
+  </details>
 </details>
 
 9. As a returning user, I want to be able to contact the company
@@ -441,9 +484,15 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Address | Navigate to the Contact page | See the Address above the Google Map | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/ContactFormTest.png">
-  <img src="docs/Validation/UserStoryTests/GoogleMapTest.png">
-  <img src="docs/Validation/UserStoryTests/AddressTest.png">
+  <details><summary>Contact Form</Summary>
+    <img src="docs/Validation/UserStoryTests/ContactFormTest.png">
+  </details>
+  <details><summary>Google Map</Summary>
+    <img src="docs/Validation/UserStoryTests/GoogleMapTest.png">
+  </details>
+  <details><summary>Address</Summary>
+    <img src="docs/Validation/UserStoryTests/AddressTest.png">
+  </details>
 </details>
 
 10. As a returning user, I want to learn more tricks
@@ -454,8 +503,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Trick Videos | Navigate to the Tricks page and find any Trick Video | See the trick videos | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/TricksTest.png">
-  <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  <details><summary>Tricks</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksTest.png">
+  </details>
+  <details><summary>Tricks Videos</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  </details>
 </details>
 
 11. As a returning user, I want to learn where a physical store is
@@ -466,8 +519,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Address | Navigate to the Contact page | See the Address above the Google Map | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/GoogleMapTest.png">
-  <img src="docs/Validation/UserStoryTests/AddressTest.png"> 
+  <details><summary>Google Map</Summary>
+    <img src="docs/Validation/UserStoryTests/GoogleMapTest.png">
+  </details>
+  <details><summary>Address</Summary>
+    <img src="docs/Validation/UserStoryTests/AddressTest.png">
+  </details>
 </details>
 
 12. As a returning user, I want to look at products
@@ -478,8 +535,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Products | Navigate to the Boards page, and scroll down | See all of the products available | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/BoardsTest.png">
-  <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  <details><summary>Boards</Summary>
+    <img src="docs/Validation/UserStoryTests/BoardsTest.png">
+  </details>
+  <details><summary>Products</Summary>
+    <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  </details>
 </details>
 
 13. As a site owner, I want users to find out about our products
@@ -490,8 +551,12 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Products | Navigate to the Boards page, and scroll down | See all of the products available | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/BoardsTest.png">
-  <img src="docs/Validation/UserStoryTests/ProductsTest.png"> 
+  <details><summary>Boards</Summary>
+    <img src="docs/Validation/UserStoryTests/BoardsTest.png">
+  </details>
+  <details><summary>Products</Summary>
+    <img src="docs/Validation/UserStoryTests/ProductsTest.png">
+  </details>
 </details>
 
 14. As a site owner, I want users to have a good visual experience when using the website
@@ -503,9 +568,15 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Hero Image | Navigate to the top of the Home page | See the Hero Image and cover text | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/HeaderTest.png">
-  <img src="docs/Validation/UserStoryTests/FooterTest.png"> 
-  <img src="docs/Validation/UserStoryTests/HeroImageTest.png"> 
+  <details><summary>Header</Summary>
+    <img src="docs/Validation/UserStoryTests/HeaderTest.png">
+  </details>
+  <details><summary>Footer</Summary>
+    <img src="docs/Validation/UserStoryTests/FooterTest.png">
+  </details>
+  <details><summary>Hero Image</Summary>
+    <img src="docs/Validation/UserStoryTests/HeroImageTest.png">
+  </details>
 </details>
 
 15. As a site owner, I want users to be able to see a 404 page if anything goes wrong
@@ -515,7 +586,9 @@ The website was tested on several web browsers to ensure consistency. The browse
 | 404 Page | If a link is broken, or the url is entered incorrectly | See the 404 Page | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/404Test.png"> 
+  <details><summary>404</Summary>
+    <img src="docs/Validation/UserStoryTests/404Test.png">
+  </details>
 </details>
 
 16. As a site owner, I want to enrich our users' skateboarding experience
@@ -526,6 +599,10 @@ The website was tested on several web browsers to ensure consistency. The browse
 | Trick Videos | Navigate to the Tricks page and find any Trick Video | See the trick videos | Works as expected |
 
 <details><summary>Screenshots</Summary>
-  <img src="docs/Validation/UserStoryTests/TricksTest.png">
-  <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  <details><summary>Tricks</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksTest.png">
+  </details>
+  <details><summary>Tricks Videos</Summary>
+    <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
+  </details>
 </details>
