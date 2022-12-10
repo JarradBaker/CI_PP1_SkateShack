@@ -300,7 +300,51 @@ The W3C Jigsaw CSS Validation Service is used in exactly the same way as the Nu 
 
 ### Accessibility
 
+The WAVE web accessibility evaluation tool by WebAIM was used to ensure the webpages met accessibility standards. All 5 pages passed without any errors.
+
+<details><summary>Home</Summary>
+<img src="docs/Validation/Accessibility/index.png">
+</details>
+
+<details><summary>Tricks</Summary>
+<img src="docs/Validation/Accessibility/tricks.png">
+</details>
+
+<details><summary>Boards</Summary>
+<img src="docs/Validation/Accessibility/boards.png">
+</details>
+
+<details><summary>Contact</Summary>
+<img src="docs/Validation/Accessibility/contact.png">
+</details>
+
+<details><summary>404</Summary>
+<img src="docs/Validation/Accessibility/404.png">
+</details>
+
 ### Performance
+
+The Google Lighthouse tool, within the Google Chrome Developer Tools was used to ensure that each page met a high performance rating. This shows that the website will load efficiently over various devices.
+
+<details><summary>Home</Summary>
+<img src="docs/Validation/Performance/index.png">
+</details>
+
+<details><summary>Tricks</Summary>
+<img src="docs/Validation/Performance/tricks.png">
+</details>
+
+<details><summary>Boards</Summary>
+<img src="docs/Validation/Performance/boards.png">
+</details>
+
+<details><summary>Contact</Summary>
+<img src="docs/Validation/Performance/contact.png">
+</details>
+
+<details><summary>404</Summary>
+<img src="docs/Validation/Performance/404.png">
+</details>
 
 ### Performance tests on various devices
 
