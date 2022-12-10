@@ -307,19 +307,19 @@ The WAVE web accessibility evaluation tool by WebAIM was used to ensure the webp
 </details>
 
 <details><summary>Tricks</Summary>
-<img src="docs/Validation/Accessibility/tricks.png">
+<img src="docs/Validation/Accessibility/tricks.PNG">
 </details>
 
 <details><summary>Boards</Summary>
-<img src="docs/Validation/Accessibility/boards.png">
+<img src="docs/Validation/Accessibility/boards.PNG">
 </details>
 
 <details><summary>Contact</Summary>
-<img src="docs/Validation/Accessibility/contact.png">
+<img src="docs/Validation/Accessibility/contact.PNG">
 </details>
 
 <details><summary>404</Summary>
-<img src="docs/Validation/Accessibility/404.png">
+<img src="docs/Validation/Accessibility/404.PNG">
 </details>
 
 ### Performance
