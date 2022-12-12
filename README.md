@@ -650,3 +650,25 @@ The website was tested on several web browsers to ensure consistency. The browse
     <img src="docs/Validation/UserStoryTests/TricksVideosTest.png">
   </details>
 </details>
+
+## Bugs
+
+| **Bug** | **Fix** |
+|---------|---------|
+| Height for most sections wasn't big enough | Removed the max-height value so the height would be as big as the actual content |
+| Grid items and Borders not fitting sizing | Added box-sixing: border-box and everything looked as it should |
+| Padding issue on tricks page for small mobile phone screens | Removed the padding for smaller screen sizes |
+| Social links not directing properly and not opening in a new tab | Corrected all links with http/https, and made them open in new tabs |
+
+## Deployment
+
+The website was deployed through the use of GitHub Pages, a feature built in to GitHub. This can be done by following the steps below.
+1. In the desired repository, click on "Settings" from the top menu.
+2. From the side menu to your left, select "Pages" in the "Code and automation" section.
+3. Make sure the "Source" option is set to "Deploy from a branch"
+4. Select the desired "Branch" from the drop down below (main branch in most cases, making sure the director is set to /(root)).
+5. Select "Save", and after it refreshes the page, you will see a box at the top of the page providing you with the URL of your now published site.
+
+## Credits
+
+## Acknowledgements
