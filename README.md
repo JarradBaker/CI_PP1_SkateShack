@@ -721,4 +721,4 @@ I would like to take this opportunity to acknowledge and thank the following peo
 - My mentor Mo Shami for continuous guidance and support.
 - My mother, who always encouraged me to strive for a career that I enjoy.
 - My peers on the Code Institute Slack channels, for advice and feedback.
-- My partener Kirsty, for her belief in me, support me, encouraging me, and giving me the invaluable time needed to develop my skills, 
+- My partener Kirsty, for her belief in me, supporting me, encouraging me, and giving me the invaluable time needed to develop my skills
