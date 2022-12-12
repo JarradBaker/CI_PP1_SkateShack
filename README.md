@@ -687,4 +687,32 @@ You can clone a repository by following the steps below.
 
 ## Credits
 
+### Media
+
+#### Videos
+
+- "How to Ollie in under 4 minutes" Video was taken from Youtube, from the creator "CCS"
+- "How to Shuvit & Pop Shuvit | In-Depth Trick Tip | Tactics" Video was taken from Youtube, from the creator "Tactics Boardshop"
+- "HOW TO FS 180" Video was taken from Youtube, from the creator "Jonny Giger"
+- "How to Kickflip in 5 minutes" Video was taken from Youtube, from the creator "CCS"
+- "How to Heelflip" Video was taken from Youtube, from the creator "Jonny Giger"
+
+#### Images
+
+- "main-hero-image-new.jpg" by "Salvio Bhering" on Pexels
+- "404.jpg" by "Erik McLean" on Pexels
+- "board1.jpg" from "Vol.1 Checker Skateboard Deck (black and white)" on SkatePro.uk
+- "board2.jpg" from "Vol.1 Checker Skateboard Deck (purple and black)" on SkatePro.uk
+- "board3.jpg" from "Vol.1 Tie-Dye Skateboard Deck" on SkatePro.uk
+- "board4.jpg" from "Blue Baker Signature Deck" on SkatePro.uk
+- "board5.jpg" from "Red Baker Signature Deck" on SkatePro.uk
+- "board6.jpg" from "Green Baker Signature Deck" on SkatePro.uk
+
+### Code
+
+- HTML: For the interactive google map was taken from google maps.
+- HTML: <i> tags with the icons and the social media link icons were all imported from FontAwesome.
+- CSS:  The font "Quicksand" was imported from Google Fonts.
+- HTML: The embedded youtube videos' code was edited to fit my site, but originally from Youtube.
+
 ## Acknowledgements
