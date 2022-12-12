@@ -711,8 +711,14 @@ You can clone a repository by following the steps below.
 ### Code
 
 - HTML: For the interactive google map was taken from google maps.
-- HTML: <i> tags with the icons and the social media link icons were all imported from FontAwesome.
-- CSS:  The font "Quicksand" was imported from Google Fonts.
+- HTML: "i" tags with the icons and the social media link icons were all imported from FontAwesome.
+- CSS: The font "Quicksand" was imported from Google Fonts.
 - HTML: The embedded youtube videos' code was edited to fit my site, but originally from Youtube.
 
 ## Acknowledgements
+
+I would like to take this opportunity to acknowledge and thank the following people:
+- My mentor Mo Shami for continuous guidance and support.
+- My mother, who always encouraged me to strive for a career that I enjoy.
+- My peers on the Code Institute Slack channels, for advice and feedback.
+- My partener Kirsty, for her belief in me, support me, encouraging me, and giving me the invaluable time needed to develop my skills, 
